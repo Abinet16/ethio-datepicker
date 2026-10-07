@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/packages/core/dist
+/packages/core/node_modules
+/packages/core/test
+
